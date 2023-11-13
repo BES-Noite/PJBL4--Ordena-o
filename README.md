@@ -1,4 +1,4 @@
-![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/a46f3155-954d-4170-97b4-b09cd7e51a77)# PJBL4-Ordenacao
+# PJBL4-Ordenacao
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -37,9 +37,9 @@ Este repositório contém uma implementação do algoritmo de ordenação usando
 
 * AlgoritmoOrdenação : Define métodos relacionados às propriedades de ordenação <br>
 ## Funcionamento 
-![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/d458ab30-8c51-413a-b12e-9eb00133b6f0)
-![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/4c1de5b3-da1a-4139-9351-59b3d967a48d)
-![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/09cfb2ab-885a-4dbb-bee9-b7912ead0906)
+![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/d458ab30-8c51-413a-b12e-9eb00133b6f0) <br>
+![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/4c1de5b3-da1a-4139-9351-59b3d967a48d) <br>
+![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/09cfb2ab-885a-4dbb-bee9-b7912ead0906)<br>
 ![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/c35ac69e-e9df-4ffd-9e83-b9e3148b9f01)
 
 
