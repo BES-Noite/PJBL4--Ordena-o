@@ -26,6 +26,19 @@ Os algoritmos de ordenação são importantes em Ciência da Computação porque
 ## Descrição do trabalho 
 ![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/2311128d-d4bc-4d89-9c42-4ca56d2ca34b)
 
+## Algoritmo 
+Este repositório contém uma implementação do algoritmo de ordenação usando quatro classes e uma interfaces. As quatro classes são:
+
+* BubbleSort: Comparação e troca de elementos adjacentes até que o array esteja ordenado.. <br>
+* InsertionSort: Constrói uma sequência ordenada, inserindo elementos não ordenados na posição correta.<br>
+* QuickSort: Escolhe um pivô e rearranja os elementos em torno dele, ordenando recursivamente as partições. <br>
+* 
+As duas interfaces são: <br>
+
+* InterfacePixel: Define métodos relacionados às propriedades do pixel. <br>
+* InterfaceNode: Define métodos para nós de listas encadeadas.
+
+
 
 
 
