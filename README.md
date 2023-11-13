@@ -33,7 +33,7 @@ Este repositório contém uma implementação do algoritmo de ordenação usando
 * InsertionSort: Constrói uma sequência ordenada, inserindo elementos não ordenados na posição correta.<br>
 * QuickSort: Escolhe um pivô e rearranja os elementos em torno dele, ordenando recursivamente as partições. <br>
 * Algoritmos: Main <br>
-As interfaces é: <br>
+  A interface é: <br>
 
 * AlgoritmoOrdenação : Define métodos relacionados às propriedades de ordenação <br>
 
