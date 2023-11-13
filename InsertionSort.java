@@ -15,15 +15,17 @@ public class InsertionSort implements AlgoritmoOrdencao {
             }
             array[indiceAnterior + 1] = chave;
 
-            System.out.println("Após a iteração " + indiceAtual + ":");
+//            System.out.println("Após a iteração " + indiceAtual + ":");
             impressao(array);
         }
     }
 
     public void impressao(int[] array) {
-        for (int i : array) {
-            System.out.print(i + " ");
+        int n = array.length;
+        System.out.print("[ ");
+        for (int i = 0; i < n; i++) {
+            System.out.print(array[i] + " ");
         }
-        System.out.println();
+        System.out.println("]");
     }
 }
