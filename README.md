@@ -12,7 +12,7 @@
      João Victor Ferreira 👨🏽‍💻 <br>
      Lohine Mussi 👩🏻‍💻 
      
-## Algoritimos de Ordenacao 
+## Algoritmos de Ordenação 
 <br> 
 
 ![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/0aff1257-5f62-402c-afa9-07f70ffb0f79)
@@ -32,11 +32,11 @@ Este repositório contém uma implementação do algoritmo de ordenação usando
 * BubbleSort: Comparação e troca de elementos adjacentes até que o array esteja ordenado.. <br>
 * InsertionSort: Constrói uma sequência ordenada, inserindo elementos não ordenados na posição correta.<br>
 * QuickSort: Escolhe um pivô e rearranja os elementos em torno dele, ordenando recursivamente as partições. <br>
-* 
-As duas interfaces são: <br>
+* Algoritmos: Main <br>
+As interfaces é: <br>
 
-* InterfacePixel: Define métodos relacionados às propriedades do pixel. <br>
-* InterfaceNode: Define métodos para nós de listas encadeadas.
+* AlgoritmoOrdenação : Define métodos relacionados às propriedades de ordenação <br>
+
 
 
 
