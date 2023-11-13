@@ -1,5 +1,5 @@
 # PJBL4-Ordenacao
-# PJBL2-ArvoreBinariaDeBusca
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
@@ -22,6 +22,10 @@ Os algoritmos de ordenação são um conjunto de instruções que recebem um arr
 
 ### Por que algoritmos de ordenação são importantes?
 Os algoritmos de ordenação são importantes em Ciência da Computação porque a ordenação pode, muitas vezes, reduzir a complexidade de um problema. Esses algoritmos têm aplicações diretas em algoritmos de busca, algoritmos de banco de dados, métodos de divisão e conquista, algoritmos de estrutura de dados e muito mais.
+
+## Descrição do trabalho 
+![image](https://github.com/BES-Noite/PJBL4--Ordena-o/assets/91105011/2311128d-d4bc-4d89-9c42-4ca56d2ca34b)
+
 
 
 
